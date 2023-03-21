@@ -1,0 +1,30 @@
+table td, th
+{ 
+    border: 1px solid #6395ff; 
+    padding:5px 10px;
+}
+
+table
+{   
+    width:500 px;
+    position: relative;
+    border-collapse: collapse; 
+}
+
+table thead
+{
+    background: #dae1f8 ;
+
+}
+
+table tfoot
+{
+    background: #5776b1;
+    color:  #fff;
+    text-align: right;
+}
+
+.st
+{
+    text-align: center; 
+}
