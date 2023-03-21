@@ -1,0 +1,40 @@
+table td, th
+{ 
+    border: 3px solid black; 
+    padding:5px 10px;
+}
+
+table
+{   
+    width:500 px;
+    position: relative;
+    border-collapse: collapse; 
+}
+
+table thead  
+{
+    background: #7392cc;
+    text-align: center;
+}
+
+.bT
+{
+      font-size: 15px;
+      margin: 0;
+      border-top: 3px solid black;
+      padding-top: 7px ;
+}
+
+.beck2{
+    background-color:#71e926;
+    font-size: 15px;
+}
+
+
+table tbody td#den, td#den1, td#pr, td#cab{
+    text-align: center;   
+}
+
+table tbody td#den, td#den1, td#pr{
+    background: #7392cc; 
+}
